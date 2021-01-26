@@ -1,0 +1,6 @@
+git init
+git add -A
+git commit -m "Initial Commit"
+git status
+git remote add origin https://github.com/sany168/BanglaVai.git
+git push -u origin master
